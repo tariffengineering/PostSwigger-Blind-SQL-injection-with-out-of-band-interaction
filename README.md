@@ -1,6 +1,6 @@
 
 
-# Web Security Academy: Blind SQLi - OOB DNS Exploit Script
+# PostSwigger-Blind-SQL-injection-with-out-of-band-interaction - OOB DNS Exploit Script
 
 **⚠️ Important: This script is intended for educational purposes only. Do not use it for any unauthorized or malicious activities. You are solely responsible for your actions. Misuse is strictly prohibited. ⚠️**
 
