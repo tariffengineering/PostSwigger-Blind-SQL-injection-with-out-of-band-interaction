@@ -1,4 +1,4 @@
-# PostSwigger-Blind-SQL-injection-with-out-of-band-interaction
+
 
 # Web Security Academy: Blind SQLi - OOB DNS Exploit Script
 
